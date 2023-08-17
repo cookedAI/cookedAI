@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Cooked.AI</h1>
 <h3 align="center">Transforming Lives, One Healthy Dish at a Time</h3>
 <img align= "right" alt="coding" width="400" src = "https://img.freepik.com/premium-vector/cute-robot-chef-hat-holding-serving-cloche-modern-robotic-character-cooking-kitchen-artificial-intelligence-technology_48369-37433.jpg?w=740">
@@ -11,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/houseofdishes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="houseofdishes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/houseofdishes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="houseofdishes" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/company/h-o-d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/company/h-o-d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
