@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Cooked.AI</h1>
 <h3 align="center">Transforming Lives, One Healthy Dish at a Time</h3>
-<img align= "right" alt="coding" width="400" src = "C:\Users\admin\Downloads\male-chef-cooking-food-6767708-6099090.gif">
+<img align= "right" alt="coding" width="400" src = "https://img.freepik.com/premium-vector/cute-robot-chef-hat-holding-serving-cloche-modern-robotic-character-cooking-kitchen-artificial-intelligence-technology_48369-37433.jpg?w=740">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cookedai&label=Profile%20views&color=0e75b6&style=flat" alt="cookedai" /> </p>
 
 <p align="left"> <a href="https://twitter.com/houseofdishes" target="blank"><img src="https://img.shields.io/twitter/follow/houseofdishes?logo=twitter&style=for-the-badge" alt="houseofdishes" /></a> </p>
